@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configuration status="info" strict="true" name="logs">
+
+	<loggers>
+		<root level="trace">
+			<appender-ref ref="stdout" />
+		</root>
+	</loggers>
+
+	<appenders>
+		<Console name="stdout" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d %p %C{1.} [%t] %m%n"/>
+		</Console>
+	</appenders>
+
+</configuration>

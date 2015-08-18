@@ -1,0 +1,16 @@
+{
+	"title": "爱立信 NFVO",
+	"username": "用户名",
+	"password": "密码",
+	"copyright": "© Ericsson Enterprise AB, 2015. All rights reserved.",
+	"licenceHeader": "重要法律声明",
+	"licenceContent": "如果您不是授权用户，请关闭此页面",
+	"licenceButton": "确定",
+	"missingUsername": "请输入用户名。",
+	"missingPassword": "请输入密码。",
+	"missingUsernamePassword": "请输入用户名和密码。",
+	"invalidUsernamePassword": "错误的用户名或密码，请重试。",
+
+	"wrongUsernamePasswordOrFrequentAttempt": "错误的用户名或密码，请重试。",
+	"networkError": "网络错误，请重试。"
+}

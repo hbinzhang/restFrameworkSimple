@@ -1,0 +1,17 @@
+
+{
+	"title": "Ericsson NFVO",
+	"username": "Username",
+	"password": "Password",
+	"copyright": "© Ericsson Enterprise AB, 2015. All rights reserved.",
+	"licenceHeader": "IMPORTANT LEGAL NOTICE",
+	"licenceContent": "If you are not an authorized user, please leave.",
+	"licenceButton": "OK",
+	"missingUsername": "Please enter a username.",
+	"missingPassword": "Please enter a password.",
+	"missingUsernamePassword": "Please enter username and password.",
+	"invalidUsernamePassword": "Invalid username/password. Please try again.",
+
+	"wrongUsernamePasswordOrFrequentAttempt": "Wrong username or password, please retry again.",
+	"networkError": "Network error, please try again."
+}

@@ -1,0 +1,26 @@
+
+{
+	"title": "演示",
+	"apps": [
+		{
+			"id": "dirman",
+			"name": "目录管理",
+			"icon": "ftpServer"
+		},
+		{
+			"id": "insdir",
+			"name": "实例目录",
+			"icon": "play"
+		},
+		{
+			"id": "resman",
+			"name": "NFVI 资源管理",
+			"icon": "database"
+		},
+		{
+			"id": "dirman2",
+			"name": "系统管理",
+			"icon": "settings"
+		}
+	]
+}

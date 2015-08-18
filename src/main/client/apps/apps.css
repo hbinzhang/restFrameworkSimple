@@ -1,0 +1,60 @@
+
+.eaApps-Apps {
+	display: inline-block;
+}
+
+.eaApps-App {
+	display:inline-block;
+	line-height: 40px;
+	vertical-align: middle;
+}
+
+.eaApps-App-link {
+	color: #0066B3;
+	font-size: 1.2rem;
+	padding: 0 18px 0 40px;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: 18px center;
+	border-left: solid 1px #D2D2D2;
+	display: block;
+	text-decoration: none;
+	cursor: pointer;
+	background-image: url("apps/resources/icon.svg");
+}
+
+.eaApps-App-text {
+	color: #0066B3;
+	font-size: 1.2rem;
+	padding: 0 18px 0 40px;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: 18px center;
+	border-left: solid 1px #D2D2D2;
+	display: block;
+	text-decoration: none;
+	cursor: pointer;
+	background-image: url("apps/resources/user.svg");
+}
+
+.eaApps-App-link:hover {
+	text-decoration: underline;
+}
+
+.eaApps-App:hover {
+	background: #E8E8E8;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #F2F2F2), color-stop(1, #E8E8E8));
+	background: -ms-linear-gradient(top, #F2F2F2, #E8E8E8);
+	background: -o-linear-gradient(center top, #F2F2F2 0%, #E8E8E8 100%);
+	background: -webkit-linear-gradient(center top, #F2F2F2 0%, #E8E8E8 100%);
+	background: -moz-linear-gradient(center top, #F2F2F2 0%, #E8E8E8 100%);
+	background: linear-gradient(center top, #F2F2F2 0%, #E8E8E8 100%);
+}
+
+@media screen and (max-width: 640px) {
+	.eaApps-App-link {
+		padding-left: 34px;
+		text-indent: -9999px;
+		width: 0;
+	}
+}
